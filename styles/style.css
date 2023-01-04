@@ -6,4 +6,13 @@ h3{
 }
 .hugo-boss{
     color: crimson;
+    height: 300px;
+    width:250px;
+    /* background-color: chocolate;
+     */
+     background-image: url("/styles/images/lio.jpg");
+     background-size: cover;
+     background-color: blueviolet;
+     background-repeat: no-repeat;
+     background-blend-mode:normal;
 }
